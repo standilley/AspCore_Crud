@@ -1,0 +1,8 @@
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.csproj.AssemblyReference.cache
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.AssemblyInfoInputs.cache
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.AssemblyInfo.cs
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.csproj.CoreCompileInputs.cache
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.RazorAssemblyInfo.cache
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.RazorAssemblyInfo.cs

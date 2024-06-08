@@ -1,0 +1,11 @@
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\bin\Debug\net8.0\ASpCore_Infra.deps.json
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\bin\Debug\net8.0\ASpCore_Infra.dll
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\bin\Debug\net8.0\ASpCore_Infra.pdb
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\ASpCore_Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\ASpCore_Infra.AssemblyInfoInputs.cache
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\ASpCore_Infra.AssemblyInfo.cs
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\ASpCore_Infra.csproj.CoreCompileInputs.cache
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\ASpCore_Infra.dll
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\refint\ASpCore_Infra.dll
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\ASpCore_Infra.pdb
+C:\Users\stand\source\repos\AspCore_Crud\ASpCore_Infra\obj\Debug\net8.0\ref\ASpCore_Infra.dll
