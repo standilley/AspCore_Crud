@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspCore_Crud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2570c24115a484fa22152cabbc9db2a504b4dc20")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspCore_Crud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspCore_Crud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

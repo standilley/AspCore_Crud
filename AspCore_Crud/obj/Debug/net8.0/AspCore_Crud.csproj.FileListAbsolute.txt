@@ -6,3 +6,4 @@ C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_C
 C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.RazorAssemblyInfo.cache
 C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.RazorAssemblyInfo.cs
+C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud\obj\Debug\net8.0\AspCore_Crud.sourcelink.json

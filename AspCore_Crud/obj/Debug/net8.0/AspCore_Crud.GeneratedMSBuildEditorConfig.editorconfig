@@ -18,20 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\stand\source\repos\AspCore_Crud\AspCore_Crud
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/FuncionarioView/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9WaWV3XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlLmNzaHRtbA==
+[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/FuncionarioView/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9WaWV3XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlscy5jc2h0bWw=
+[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/FuncionarioView/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9WaWV3XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdC5jc2h0bWw=
+[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/FuncionarioView/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9WaWV3XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/FuncionarioView/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9WaWV3XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Home/Index.cshtml]
@@ -40,10 +44,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/stand/source/repos/AspCore_Crud/AspCore_Crud/Views/Shared/Error.cshtml]
